@@ -53,19 +53,31 @@ _See more of my projects and AI experiments on my [GitHub profile](https://githu
 
 ---
 
-### 🌐 Connect with Me
+### 🌱 More About Me
 
-- [LinkedIn](http://linkedin.com/in/rahul-bedjavalge/)
-- Email: rahulbedjavalge@yahoo.com
+- 🔭 I’m currently working on:  
+  Improving my [portfolio](https://github.com/rahulbedjavalge/portfolio), new AI research prototypes, and hackathon projects.
 
+- 🌱 I’m currently learning:  
+  Advanced reinforcement learning, generative AI, and scalable ML engineering.
 
----
+- 👯 I’m looking to collaborate on:  
+  Open-source AI/ML projects, hackathons, research, and cool coding side-projects.
 
-### ⚡ Fun Facts & Interests
+- 🤔 I’m looking for help with:  
+  Building robust ML pipelines, deploying AI models, and connecting with mentors in AI research.
 
-- Enjoys hackathons, building things from scratch, and learning by doing
-- Interested in collaborating on open-source AI projects
-- Always up for a good discussion on ML, RL, or creative problem-solving
+- 💬 Ask me about:  
+  AI, ML, RL, Python projects, hackathons, or creative side hustles.
+
+- 📫 How to reach me:  
+  [LinkedIn](http://linkedin.com/in/rahul-bedjavalge/) | rahulbedjavalge@yahoo.com
+
+- 😄 Pronouns:  
+  He/Him
+
+- ⚡ Fun fact:  
+  I believe "lazy ambitious" is a superpower: I automate what I can and dream big!
 
 ---
 
