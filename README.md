@@ -49,47 +49,12 @@ Open to collaboration | Currently learning | Always curious
 
 _See more of my projects and AI experiments on my [GitHub profile](https://github.com/rahulbedjavalge?tab=repositories) (12+ repositories, not all shown here!)_
 
----
-
-### 📈 GitHub Track Record
-
-- 12+ repositories (AI, RL, Computer Vision, web, and more)
-- Recent activity:  
-  - AI hackathons
-  - Research-driven and practical projects
-  - Strong focus on open source and reproducible research
-
----
-
-### 🌱 More About Me
-
-- 🔭 I’m currently working on:  
-  Improving my [portfolio](https://github.com/rahulbedjavalge/portfolio), new AI research prototypes, and hackathon projects.
-
-- 🌱 I’m currently learning:  
-  Advanced reinforcement learning, generative AI, and scalable ML engineering.
-
-- 👯 I’m looking to collaborate on:  
-  Open-source AI/ML projects, hackathons, research, and cool coding side-projects.
-
-- 🤔 I’m looking for help with:  
-  Building robust ML pipelines, deploying AI models, and connecting with mentors in AI research.
-
-- 💬 Ask me about:  
-  AI, ML, RL, Python projects, hackathons, or creative side hustles.
-
-- 📫 How to reach me:  
-  [LinkedIn](http://linkedin.com/in/rahul-bedjavalge/) | rahulbedjavalge@yahoo.com
 
 - 😄 Pronouns:  
   He/Him
 
 - ⚡ Fun fact:  
   I believe "lazy ambitious" is a superpower: I automate what I can and dream big!
-
----
-
-> “Ambition is the path to success. Persistence is the vehicle you arrive in.”
 
 ---
 
