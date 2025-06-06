@@ -17,6 +17,7 @@ Open to collaboration | Currently learning | Always curious
 
 - 🎓 Student passionate about artificial intelligence, machine learning, and everything AI-related
 - 👀 Exploring new horizons in AI, computer vision, and reinforcement learning
+-  🎧 Vibe coding these days—hacking on projects and exploring new tech stacks
 - 📝 Always looking for cool projects and smart people to work and learn with
 
 ---
@@ -26,6 +27,7 @@ Open to collaboration | Currently learning | Always curious
 - AI/ML frameworks (Python, Jupyter Notebook)
 - Reinforcement Learning, Computer Vision
 - TypeScript, JavaScript (for web/portfolio)
+- Prompt Engineering (for LLMs & GenAI)
 - Always learning new tools & best practices
 
 ---
@@ -48,10 +50,6 @@ Open to collaboration | Currently learning | Always curious
   Exploring RL in simulated environments
 
 _See more of my projects and AI experiments on my [GitHub profile](https://github.com/rahulbedjavalge?tab=repositories) (12+ repositories, not all shown here!)_
-
-
-- 😄 Pronouns:  
-  He/Him
 
 - ⚡ Fun fact:  
   I believe "lazy ambitious" is a superpower: I automate what I can and dream big!
