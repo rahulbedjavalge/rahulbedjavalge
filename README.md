@@ -49,8 +49,6 @@ Open to collaboration | Currently learning | Always curious
 - [Monte Carlo Gridworld](https://github.com/rahulbedjavalge/monte-carlo-gridworld)  
   Exploring RL in simulated environments
 
-_See more of my projects and AI experiments on my [GitHub profile](https://github.com/rahulbedjavalge?tab=repositories) (12+ repositories, not all shown here!)_
-
 - ⚡ Fun fact:  
   I believe "lazy ambitious" is a superpower: I automate what I can and dream big!
 
