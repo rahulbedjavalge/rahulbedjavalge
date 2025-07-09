@@ -34,6 +34,9 @@ Open to collaboration | Currently learning | Always curious
 
 ### 🏆 Featured Projects
 
+- [BlogBuilder-Ai](https://blogbuilder-ai.vercel.app/)
+  Transform a single word into a complete, engaging blog post using the power of artificial intelligence.
+
 - [Portfolio Website](https://github.com/rahulbedjavalge/portfolio)  
   My digital portfolio, showcasing my journey and AI work
 
