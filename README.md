@@ -15,7 +15,7 @@ Open to collaboration | Currently learning | Always curious
 
 ### About Me
 
-- 🎓 Student passionate about artificial intelligence, machine learning, and everything AI-related
+- 🎓 Student passionate about artificial intelligence, machine learning, and Fintech!
 - 👀 Exploring new horizons in AI, computer vision, and reinforcement learning
 -  🎧 Vibe coding these days—hacking on projects and exploring new tech stacks
 - 📝 Always looking for cool projects and smart people to work and learn with
