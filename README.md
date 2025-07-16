@@ -8,7 +8,7 @@
 
 # 👋 Hi, I’m [Rahul Bedjavalge](https://stellar-cv-glow.lovable.app/)
 
-Student & aspiring AI researcher  
+Student & aspiring AI Engineer  
 Open to collaboration | Currently learning | Always curious
 
 ---
