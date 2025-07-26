@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbedjavalge&layout=compact&theme=radical)
 -->
 
-# 👋 Hi, I’m [Rahul Bedjavalge](https://stellar-cv-glow.lovable.app/)
+# 👋 Hi, I’m [Rahul Bedjavalge]([https://www.rahulai.com/])
 
 Student & aspiring AI Engineer  
 Open to collaboration | Currently learning | Always curious
