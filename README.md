@@ -25,7 +25,7 @@ Open to collaboration | Currently learning | Always curious
 ### 🔍 Skills & Tech
 
 - AI/ML frameworks (Python, Jupyter Notebook)
-- Reinforcement Learning, Computer Vision
+- Reinforcement Learning, Computer Vision, EDA, Segmentation, Deep learning
 - TypeScript, JavaScript (for web/portfolio)
 - Prompt Engineering (for LLMs & GenAI)
 - Always learning new tools & best practices
