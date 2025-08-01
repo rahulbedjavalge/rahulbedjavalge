@@ -9,7 +9,7 @@
 # 👋 Hi, I’m [Rahul Bedjavalge](https://www.rahulai.com/)
 
 Student & aspiring AI Engineer  
-Open to collaboration | Currently learning | Always curious
+Prompt Engineering | AI/ML Reaserch | Generative AI | AI App Devlopment | API Integration | AI Automation
 
 ---
 
