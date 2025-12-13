@@ -18,8 +18,6 @@ Prompt Engineering | AI/ML Reaserch | Generative AI | AI App Devlopment | API In
 - 🎓 Student passionate about artificial intelligence, machine learning, and Fintech!
 - 👀 Exploring new horizons in AI, computer vision, and reinforcement learning
 -  🎧 Vibe coding these days and exploring new tech stacks
-- 📝 Always looking for cool projects and smart people to work and learn with
-
 ---
 
 ### 🔍 Skills & Tech
