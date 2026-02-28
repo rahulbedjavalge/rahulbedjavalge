@@ -16,7 +16,6 @@ Prompt Engineering | AI/ML Reaserch | Generative AI | AI App Devlopment | API In
 ### About Me
 
 - 🎓 Student passionate about artificial intelligence, automation, and Fintech!
-- 👀 Exploring new horizons in AI, computer vision, and reinforcement learning
 -  🎧 Vibe coding these days and exploring new tech stacks
 ---
 
