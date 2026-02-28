@@ -34,9 +34,9 @@ Prompt Engineering | AI/ML Reaserch | Generative AI | AI App Devlopment | API In
 -[TinyTinyEvents](https://tinytinyevents.com/).
  Turn a poster into a real event link in seconds
 
- -[SushiCity](https://kopenick.lovable.app/)
+-[SushiCity](https://kopenick.lovable.app/)
   Full stack , food delilvery app + pos system for sushi restuarent.
-
+  
 - [BlogBuilder-AI](https://blogbuilder-ai.vercel.app/)     
  Transform a single word into a complete, engaging blog post using the power of artificial intelligence.
 
