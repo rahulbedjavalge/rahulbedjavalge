@@ -22,7 +22,6 @@ Prompt Engineering | AI/ML Reaserch | Generative AI | AI App Devlopment | API In
 ### 🔍 Skills & Tech
 
 - AI/ML frameworks (Python, Jupyter Notebook)
-- Reinforcement LearninG, EDA, Segmentation, 
 - TypeScript, JavaScript (for web/portfolio)
 - Prompt Engineering (for LLMs & GenAI)
 - Always learning new tools & best practices
